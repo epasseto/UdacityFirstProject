@@ -30,3 +30,36 @@ This software is based on MIT Licence. The complete description of the licence c
 
 #### Author:
 Eduardo Passeto epasseto@gmail.com
+
+---
+
+Versions:
+
+>- 0.1 and 0.2 pre Alpha, where incomplete versions, made between april and may 2021;
+>- version 1.0, from july 2021 is the actual working version of the system.
+
+---
+
+Necessary files for running the project:
+
+1. input files:
+
+>- **2011 Stack Overflow Survey Results 2011.csv** $\rightarrow$ for 2011 data
+>- **survey_results_public.csv** $\rightarrow$ for 2020 data
+
+2. Jupyter Notebook:
+
+>- **First_Projectn.ipynb** $\rightarrow$ Jupyter Notebook (Python 3.X)
+
+3. Python library:
+
+>- **udacourse.py** $\rightarrow$ Python 3.X functions collection
+
+External libraries:
+
+>- Pandas
+>- Numpy
+>- Math
+>- Matplotlib
+>- Seaborn
+>- Time
