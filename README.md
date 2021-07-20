@@ -44,16 +44,16 @@ Necessary files for running the project:
 
 1. input files:
 
->- **2011 Stack Overflow Survey Results 2011.csv** $/rightarrow$ for 2011 data
->- **survey_results_public.csv** $/rightarrow$ for 2020 data
+>- **2011 Stack Overflow Survey Results 2011.csv** → for 2011 data
+>- **survey_results_public.csv** → for 2020 data
 
 2. Jupyter Notebook:
 
->- **First_Projectn.ipynb** $/rightarrow$ Jupyter Notebook (Python 3.X)
+>- **First_Projectn.ipynb** → Jupyter Notebook (Python 3.X)
 
 3. Python library:
 
->- **udacourse.py** $/rightarrow$ Python 3.X functions collection
+>- **udacourse.py** → Python 3.X functions collection
 
 External libraries:
 
