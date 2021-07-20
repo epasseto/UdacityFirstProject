@@ -1,6 +1,10 @@
 # UdacityFirstProject
 Project Submission for First Project of Udacity Data Science Course - Write a Data Science Project
 
+Weblog [here](https://epasseto.github.io/First-Udacity-Datascience-Blog/)
+
+Weblog project [here](https://github.com/epasseto/First-Udacity-Datascience-Blog)
+
 #### Description:
 This project collects data from Stack Overflow Survey - years 2011 and 2020. The main idea is to compare how users from some kind of group refers frow what programming language. How preferences are changing by time. And what to expect from next generation about using programming languages.
 
